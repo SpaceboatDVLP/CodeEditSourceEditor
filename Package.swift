@@ -26,7 +26,7 @@ let package = Package(
         ),
         // CodeEditSymbols
         .package(
-            url: "https://github.com/CodeEditApp/CodeEditSymbols.git",
+            url: "https://github.com/SpaceboatDVLP/CodeEditSymbols.git",
             exact: "0.2.3"
         ),
         // SwiftLint
